@@ -1,4 +1,4 @@
-# Flipper-Enchancer
+# Flipper-Enhancer
 A collection of files to make your flipper zero do anything.
 
 # Databases
@@ -27,5 +27,5 @@ https://ilin.pt/stuff/fui-editor/
 An NSFW firmware for the Flipper Zero:
 https://github.com/ClaraCrazy/Flipper-Xtreme
 
-An all in one custom firmware, with many dumps and apps of every kind:
+An all in one custom firmware, with many dumps and apps for everything you want:
 https://github.com/skizzophrenic/SquachWare-CFW
