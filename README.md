@@ -24,7 +24,7 @@ https://ilin.pt/stuff/fui-editor/
 # Custom Firmwares
 
 
-An NSFW firmware for the Flipper Zero:
+Probably the best custom firmware for the Flipper Zero (as of now,) with built in themes, and lots of customization:
 https://github.com/ClaraCrazy/Flipper-Xtreme
 
 An all in one custom firmware, with many dumps and apps for everything you want:
